@@ -2,8 +2,6 @@ import Header from "../components/Header";
 import Hero from "../components/Hero";
 import About from "../components/About";
 import Mission from "../components/Mission";
-import DecisionFramework from "../components/DecisionFramework";
-import Strategy from "../components/Strategy";
 import AIUsage from "../components/AIUsage";
 import Now from "../components/Now";
 import Projects from "../components/Projects";
@@ -18,8 +16,6 @@ const Index = () => (
       <Hero />
       <About />
       <Mission />
-      <DecisionFramework />
-      <Strategy />
       <AIUsage />
       <Now />
       <Projects />
