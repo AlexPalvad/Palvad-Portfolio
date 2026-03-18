@@ -43,7 +43,7 @@ const contextMarkdown = `# Alexander Rieck Palvad — AI Context
 - **Build:** Lovable, Supabase, Capacitor
 - **Deploy:** Xcode, Android Studio
 - **Automate:** Make.com
-- **AI:** ChatGPT, Claude
+- **AI:** ChatGPT, Claude, Grok, Manus
 
 ## Goals
 - **Short-term:** grow Palvad.dk, launch apps, acquire clients

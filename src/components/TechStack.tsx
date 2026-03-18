@@ -7,7 +7,7 @@ const TechStack = () => {
     { label: t("tech.build"), items: ["Lovable", "Supabase", "Capacitor"] },
     { label: t("tech.deploy"), items: ["Xcode", "Android Studio"] },
     { label: t("tech.automate"), items: ["Make.com"] },
-    { label: t("tech.ai"), items: ["ChatGPT", "Claude"] },
+    { label: t("tech.ai"), items: ["ChatGPT", "Claude", "Grok", "Manus"] },
   ];
 
   return (
