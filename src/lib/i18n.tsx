@@ -28,6 +28,40 @@ const translations: Record<Lang, Record<string, string>> = {
     "about.p1": "17 years old, based in Copenhagen/Gentofte, Denmark. Currently an HTX student at H.C. Ørsted Gymnasiet (TEC), studying Biotechnology & Sports with Mathematics A.",
     "about.p2": "Analytical, entrepreneurial, and direct. I build digital products for small businesses — websites, apps, SaaS tools, and automation systems. AI is my primary execution tool; I use it to move fast, solve problems, and ship real products.",
 
+    // Mission
+    "mission.title": "Mission",
+    "mission.text": "Build scalable technology products and a profitable tech business while still a student. Focus on real execution, real users, and real products — not theory.",
+
+    // Decision Framework
+    "decision.title": "Decision Framework",
+    "decision.1": "Speed > perfection",
+    "decision.2": "Shipping > planning",
+    "decision.3": "Real users > hypothetical ideas",
+    "decision.4": "Simple solutions > complex architectures",
+    "decision.5": "Build fast → test → iterate → improve",
+
+    // Strategy
+    "strategy.title": "Business Strategy",
+    "strategy.1": "Build service business (Palvad.dk)",
+    "strategy.2": "Acquire real clients",
+    "strategy.3": "Use revenue and experience to build SaaS tools",
+    "strategy.4": "Move toward scalable recurring revenue products",
+
+    // Constraints
+    "constraints.title": "Constraints",
+    "constraints.1": "Student with limited time",
+    "constraints.2": "Limited capital",
+    "constraints.3": "Must prioritize leverage and efficiency",
+    "constraints.4": "Solo operator — automation is critical",
+
+    // AI Usage
+    "aiusage.title": "AI Usage Model",
+    "aiusage.1": "Product building",
+    "aiusage.2": "Automation",
+    "aiusage.3": "Coding",
+    "aiusage.4": "Business thinking and strategy",
+    "aiusage.5": "Not just chat — AI is embedded in the workflow",
+
     // Now
     "now.title": "Now",
     "now.1": "Growing Palvad.dk and acquiring real clients",
@@ -92,6 +126,40 @@ const translations: Record<Lang, Record<string, string>> = {
     "about.title": "Om",
     "about.p1": "17 år, bosat i København/Gentofte, Danmark. HTX-elev på H.C. Ørsted Gymnasiet (TEC), med studieretningen Bioteknologi & Idræt og Matematik A.",
     "about.p2": "Analytisk, iværksætter og direkte. Jeg bygger digitale produkter til små virksomheder — websites, apps, SaaS-værktøjer og automatiseringssystemer. AI er mit primære eksekveringsværktøj; jeg bruger det til at arbejde hurtigt, løse problemer og shippe rigtige produkter.",
+
+    // Mission
+    "mission.title": "Mission",
+    "mission.text": "Byg skalerbare teknologiprodukter og en profitabel tech-virksomhed mens jeg stadig er studerende. Fokus på reel eksekvering, rigtige brugere og rigtige produkter — ikke teori.",
+
+    // Decision Framework
+    "decision.title": "Beslutningsramme",
+    "decision.1": "Hastighed > perfektion",
+    "decision.2": "Shipping > planlægning",
+    "decision.3": "Rigtige brugere > hypotetiske idéer",
+    "decision.4": "Simple løsninger > komplekse arkitekturer",
+    "decision.5": "Byg hurtigt → test → iterér → forbedr",
+
+    // Strategy
+    "strategy.title": "Forretningsstrategi",
+    "strategy.1": "Byg servicevirksomhed (Palvad.dk)",
+    "strategy.2": "Skaf rigtige kunder",
+    "strategy.3": "Brug indtjening og erfaring til at bygge SaaS-værktøjer",
+    "strategy.4": "Bevæg dig mod skalerbare produkter med tilbagevendende indtjening",
+
+    // Constraints
+    "constraints.title": "Begrænsninger",
+    "constraints.1": "Studerende med begrænset tid",
+    "constraints.2": "Begrænset kapital",
+    "constraints.3": "Skal prioritere gearing og effektivitet",
+    "constraints.4": "Solo-operatør — automatisering er kritisk",
+
+    // AI Usage
+    "aiusage.title": "AI-brugsmodel",
+    "aiusage.1": "Produktudvikling",
+    "aiusage.2": "Automatisering",
+    "aiusage.3": "Kodning",
+    "aiusage.4": "Forretningsanalyse og strategi",
+    "aiusage.5": "Ikke bare chat — AI er integreret i workflowet",
 
     // Now
     "now.title": "Nu",
