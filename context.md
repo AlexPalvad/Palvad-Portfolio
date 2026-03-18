@@ -7,6 +7,9 @@
 - **Language:** Danish (native), English (fluent)
 - **Education:** HTX student at H.C. Ørsted Gymnasiet (TEC) — Biotechnology & Sports, Mathematics A
 - **Role:** Student entrepreneur, founder of Palvad.dk
+- **Phone:** +45 22 64 32 77
+- **Email:** alexanderpalvad@gmail.com / kontakt@palvad.dk
+- **Role:** Student entrepreneur, founder of Palvad.dk
 
 ## Mission
 Build scalable technology products and a profitable tech business while still a student. Focus on real execution, real users, and real products — not theory.
