@@ -65,6 +65,7 @@ const contextMarkdown = `# Alexander Rieck Palvad — AI Context
 
 ## Website
 - [palvad.dk](https://palvad.dk)
+- [Palvad Clubs](https://clubs.palvad.dk)
 - [LinkedIn](https://www.linkedin.com/in/alexander-rieck-palvad-8a8534357/)
 `;
 
