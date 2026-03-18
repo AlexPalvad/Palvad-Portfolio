@@ -162,7 +162,7 @@ const translations: Record<Lang, Record<string, string>> = {
     "aiusage.5": "Ikke bare chat — AI er integreret i workflowet",
 
     // Now
-    "now.title": "Nu",
+    "now.title": "Bygger lige nu",
     "now.1": "Vækster Palvad.dk og skaffer rigtige kunder",
     "now.2": "Bygger og lancerer Palvad Clubs mobilappen",
     "now.3": "Udvikler SaaS- og automatiseringsværktøjer under Palvad Tools",
