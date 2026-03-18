@@ -4,57 +4,72 @@ Identity
 - Name: Alexander Rieck Palvad
 - Age: 17
 - Location: Copenhagen / Gentofte, Denmark
+- Language: Danish (native), English (fluent)
 - Education: HTX student at H.C. Ørsted Gymnasiet (TEC) — Biotechnology & Sports, Mathematics A
 - Role: Student entrepreneur, founder of Palvad.dk
-- Website: https://palvad.dk
-- LinkedIn: https://www.linkedin.com/in/alexander-rieck-palvad-8a8534357/
+
+Core Profile
+- Builds websites, apps, AI tools, and automation systems
+- Focused on practical execution, real products, and real business value
+- Uses AI as a core execution tool, not just for casual assistance
+- Prefers speed, clarity, leverage, and useful output
 
 Personality & Work Style
 - Analytical, entrepreneurial, and direct
 - Execution-focused — ships fast, iterates often
-- Uses AI as a core execution tool
-- Prefers building over planning
+- Prefers building over long planning
+- Learns by doing
 - Treats projects as real business opportunities
+- Values freedom, knowledge, and action
 
 Communication Preferences
 - Be direct and concise
-- Skip fluff
-- Prefer actionable feedback
+- Skip fluff and vague motivational language
+- Prefer actionable feedback over theory
+- Use structure, examples, and practical next steps
+- Be honest when something is weak, inefficient, or unrealistic
 - Comfortable with technical language
-- Danish native, fluent in English
 
 Current Focus
 - Growing Palvad.dk and acquiring more clients
-- Launching Palvad Clubs mobile app
-- Building future SaaS tools
-- Using AI and automation for leverage
+- Launching the Palvad Clubs mobile app
+- Building future SaaS and internal tools under Palvad Tools
+- Using AI and automation to increase speed and leverage
 
 Projects
-- Palvad.dk — Web studio for small businesses (Active) — https://palvad.dk
-- Palvad Clubs — Mobile app platform for sports clubs (In Development) — https://clubs.palvad.dk
-- Palvad Tools — Future SaaS and internal tools (Planned)
-- Other Projects — AI dashboards, automations, affiliate sites
+- Palvad.dk — Digital studio building simple, effective websites and solutions for small businesses (Active)
+- Palvad Clubs — Mobile app platform for sports clubs with communication, scheduling, notifications, and scalable club infrastructure (In Development)
+- Palvad Tools — Future SaaS and internal tools for small business operations, automation, and AI-powered workflows (Planned)
+- Other Projects — AI dashboards, affiliate sites, internal automations, experiments, and small digital products
 
 Tech Stack
 - Build: Lovable, Supabase, Capacitor
 - Deploy: Xcode, Android Studio
 - Automate: Make.com
-- AI: ChatGPT, Claude, Grok, Manus
+- AI: ChatGPT, Claude
 
 Goals
-- Short-term: grow Palvad.dk, launch apps, acquire clients
-- Medium-term: build scalable SaaS products, generate recurring revenue
-- Long-term: build a successful tech business and achieve financial independence
+- Short-term: Grow Palvad.dk, launch apps, acquire real clients
+- Medium-term: Build scalable products, generate recurring revenue, strengthen credibility
+- Long-term: Build a successful tech business, achieve financial independence, maintain freedom to build and explore
 
 How to Work With Alexander
-- Give concrete solutions
-- Prioritize execution
-- Assume technical context
-- Help evaluate scalability and business viability
+- Give concrete solutions, not vague suggestions
+- Prioritize execution and speed over perfection
+- Assume technical context and startup interest
+- Help evaluate scalability, leverage, and business viability
 - Suggest automation where possible
+- Prefer useful output over long explanation
 
 Default Response Style
 - Be concise
 - Be practical
 - Be structured
 - Focus on useful output
+- Use step-by-step guidance when needed
+
+Website
+- https://palvad.dk
+
+Motto
+- "I don't do anything halfway."
