@@ -34,8 +34,8 @@ const contextMarkdown = `# Alexander Rieck Palvad — AI Context
 - Using AI and automation for leverage
 
 ## Projects
-- **Palvad.dk** — Web studio for small businesses (Active)
-- **Palvad Clubs** — Mobile app platform for sports clubs (In Development)
+- **Palvad.dk** — Web studio for small businesses (Active) — https://palvad.dk
+- **Palvad Clubs** — Mobile app platform for sports clubs (In Development) — https://clubs.palvad.dk
 - **Palvad Tools** — Future SaaS and internal tools (Planned)
 - **Other Projects** — AI dashboards, automations, affiliate sites
 
