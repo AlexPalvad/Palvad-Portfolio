@@ -63,7 +63,7 @@ const translations: Record<Lang, Record<string, string>> = {
     "aiusage.5": "Not just chat — AI is embedded in the workflow",
 
     // Now
-    "now.title": "Now",
+    "now.title": "Currently Building",
     "now.1": "Growing Palvad.dk and acquiring real clients",
     "now.2": "Building and launching the Palvad Clubs mobile app",
     "now.3": "Developing SaaS and automation tools under Palvad Tools",
