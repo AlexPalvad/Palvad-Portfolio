@@ -5,6 +5,7 @@ import Mission from "../components/Mission";
 import AIUsage from "../components/AIUsage";
 import Now from "../components/Now";
 import Projects from "../components/Projects";
+import References from "../components/References";
 import TechStack from "../components/TechStack";
 import Goals from "../components/Goals";
 import Contact from "../components/Contact";
@@ -19,6 +20,7 @@ const Index = () => (
       <AIUsage />
       <Now />
       <Projects />
+      <References />
       <TechStack />
       <Goals />
       <Contact />

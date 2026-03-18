@@ -76,6 +76,13 @@ const translations: Record<Lang, Record<string, string>> = {
     "projects.tools.desc": "Future SaaS and internal tools for small business operations, automation and AI-powered workflows.",
     "projects.other.desc": "Affiliate sites, AI dashboards, automation systems, growth experiments and small digital products.",
 
+    // References
+    "references.title": "References",
+    "references.presslab.desc": "Digital platform for a brand and merchandise company. Product presentation, brand communication, and marketing materials.",
+    "references.skomar.desc": "Online training platform focused on the Danish game 'Skomar'. Structured teaching material and learning progression.",
+    "references.geartjek.desc": "Review and comparison website for security equipment and home technology. Product reviews, comparisons, and guides.",
+    "references.hairdesign.desc": "Professional website for a hair salon in Vangede, Gentofte. Service overview, pricing, gallery, and contact information.",
+
     // Tech
     "tech.title": "Tech Stack",
     "tech.subtitle": "Tools I use to build, automate and ship products fast.",
@@ -174,6 +181,13 @@ const translations: Record<Lang, Record<string, string>> = {
     "projects.clubs.desc": "Mobilapp-platform til sportsklubber med kommunikation, planlægning, notifikationer og skalerbar klubinfrastruktur.",
     "projects.tools.desc": "Fremtidige SaaS- og interne værktøjer til små virksomheders drift, automatisering og AI-drevne workflows.",
     "projects.other.desc": "Affiliate-sites, AI-dashboards, automatiseringssystemer, væksteksperimenter og små digitale produkter.",
+
+    // References
+    "references.title": "Referencer",
+    "references.presslab.desc": "Digital platform til et brand- og merchandise-firma. Produktpræsentation, brandkommunikation og marketingmaterialer.",
+    "references.skomar.desc": "Online træningsplatform fokuseret på det danske spil 'Skomar'. Struktureret undervisningsmateriale og læringsprogression.",
+    "references.geartjek.desc": "Anmeldelses- og sammenligningswebsite for sikkerhedsudstyr og hjemmeteknologi. Produktanmeldelser, sammenligninger og guides.",
+    "references.hairdesign.desc": "Professionelt website for en frisørsalon i Vangede, Gentofte. Serviceoversigt, priser, galleri og kontaktinformation.",
 
     // Tech
     "tech.title": "Teknologi",
