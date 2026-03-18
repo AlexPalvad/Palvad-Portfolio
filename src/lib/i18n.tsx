@@ -76,6 +76,13 @@ const translations: Record<Lang, Record<string, string>> = {
     "projects.tools.desc": "Future SaaS and internal tools for small business operations, automation and AI-powered workflows.",
     "projects.other.desc": "Affiliate sites, AI dashboards, automation systems, growth experiments and small digital products.",
 
+    // References
+    "references.title": "References",
+    "references.presslab.desc": "Digital platform for a brand and merchandise company. Product presentation, brand communication, and marketing materials.",
+    "references.skomar.desc": "Online training platform focused on the Danish game 'Skomar'. Structured teaching material and learning progression.",
+    "references.geartjek.desc": "Review and comparison website for security equipment and home technology. Product reviews, comparisons, and guides.",
+    "references.hairdesign.desc": "Professional website for a hair salon in Vangede, Gentofte. Service overview, pricing, gallery, and contact information.",
+
     // Tech
     "tech.title": "Tech Stack",
     "tech.subtitle": "Tools I use to build, automate and ship products fast.",
