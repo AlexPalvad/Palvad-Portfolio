@@ -411,6 +411,95 @@ Alexander already has practical knowledge of:
 
 Avoid explaining very basic concepts unless requested.
 
+## Client Projects
+
+Alexander has built websites and digital platforms for real clients and projects.
+
+### Presslab.dk
+Digital platform for a brand and merchandise company.
+
+Features:
+- product presentation
+- brand communication
+- marketing materials and services
+
+Live: https://presslab.dk
+
+### Skomar Akademiet
+Online training platform focused on the Danish game "Skomar".
+
+Features:
+- structured teaching material
+- learning progression
+- content platform for players
+
+Live: https://skomarakademiet.dk
+
+### GearTjek.dk
+Review and comparison website focused on security equipment and home technology.
+
+Features:
+- product reviews
+- comparisons
+- guides for security and tech products
+
+Live: https://geartjek.dk
+
+### HairDesign by Enis
+Professional website for a hair salon in Vangede, Gentofte.
+
+Features:
+- service overview
+- pricing
+- gallery
+- contact and location information
+
+Live: https://www.hairdesignbyenis.dk/
+
+## Social Presence
+
+Instagram: https://www.instagram.com/palvad.dk
+
+Used for:
+- sharing projects
+- documenting builds
+- promoting Palvad.dk
+- connecting with potential clients
+
+## Portfolio
+
+Main portfolio and builder profile:
+https://alexander-ai-profile.lovable.app
+
+## Geographic Context
+
+Alexander primarily works with businesses located in:
+- Copenhagen
+- Gentofte
+- Lyngby
+- surrounding areas in Denmark
+
+## Real-World Experience
+
+Alexander builds digital products and websites for real businesses while still in high school.
+
+Typical work includes:
+- building websites for local businesses
+- creating digital platforms
+- experimenting with SaaS tools
+- building automation systems
+- testing product ideas with real users
+
+## Builder Metrics
+
+Started building: May 2025
+
+Current scope:
+- multiple websites built for real clients
+- several live web platforms
+- mobile app platform currently in development
+- multiple AI and automation experiments
+
 ## Knowledge Sources
 Primary sources about Alexander:
 
