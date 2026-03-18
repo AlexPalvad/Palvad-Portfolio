@@ -7,12 +7,7 @@ const Hero = () => {
 
   return (
     <section className="container py-24 md:py-32">
-      <div className="flex items-center gap-6 mb-6">
-        <img
-          src={profileImg}
-          alt="Alexander Rieck Palvad"
-          className="w-20 h-20 md:w-28 md:h-28 rounded-full object-cover border-2 border-primary/30 shrink-0"
-        />
+      <div className="flex flex-col-reverse md:flex-row md:items-center md:justify-between gap-8 mb-6">
         <div>
           <p className="text-sm text-primary font-mono mb-2">{t("hero.greeting")}</p>
           <h1 className="font-display font-900 text-4xl md:text-6xl tracking-tight leading-[1.1]">
@@ -21,6 +16,11 @@ const Hero = () => {
             Palvad
           </h1>
         </div>
+        <img
+          src={profileImg}
+          alt="Alexander Rieck Palvad"
+          className="w-32 h-32 md:w-40 md:h-40 rounded-full object-cover border-2 border-primary/30 shrink-0"
+        />
       </div>
       <p className="text-lg md:text-xl text-muted-foreground mb-6 max-w-lg">
         {t("hero.subtitle")}
