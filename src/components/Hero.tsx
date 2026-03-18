@@ -1,17 +1,27 @@
 import { ArrowUpRight } from "lucide-react";
 import { useLang } from "@/lib/i18n";
+import profileImg from "@/assets/profile.png";
 
 const Hero = () => {
   const { t } = useLang();
 
   return (
     <section className="container py-24 md:py-32">
-      <p className="text-sm text-primary font-mono mb-4">{t("hero.greeting")}</p>
-      <h1 className="font-display font-900 text-4xl md:text-6xl tracking-tight leading-[1.1] mb-4">
-        Alexander Rieck
-        <br />
-        Palvad
-      </h1>
+      <div className="flex items-center gap-6 mb-6">
+        <img
+          src={profileImg}
+          alt="Alexander Rieck Palvad"
+          className="w-20 h-20 md:w-28 md:h-28 rounded-full object-cover border-2 border-primary/30 shrink-0"
+        />
+        <div>
+          <p className="text-sm text-primary font-mono mb-2">{t("hero.greeting")}</p>
+          <h1 className="font-display font-900 text-4xl md:text-6xl tracking-tight leading-[1.1]">
+            Alexander Rieck
+            <br />
+            Palvad
+          </h1>
+        </div>
+      </div>
       <p className="text-lg md:text-xl text-muted-foreground mb-6 max-w-lg">
         {t("hero.subtitle")}
       </p>
