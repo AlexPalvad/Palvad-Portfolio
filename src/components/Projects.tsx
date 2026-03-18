@@ -16,6 +16,7 @@ const Projects = () => {
       name: "Palvad Clubs",
       description: t("projects.clubs.desc"),
       tags: ["Lovable", "Supabase", "Capacitor", "Xcode"],
+      url: "https://clubs.palvad.dk",
       status: "In Development",
     },
     {
