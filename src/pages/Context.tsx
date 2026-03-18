@@ -12,6 +12,14 @@ const contextMarkdown = `# Alexander Rieck Palvad — AI Context
 - **Language:** Danish (native), English (fluent)
 - **Education:** HTX student at H.C. Ørsted Gymnasiet (TEC) — Biotechnology & Sports, Mathematics A
 - **Role:** Student entrepreneur, founder of Palvad.dk
+- **Phone:** +45 22 64 32 77
+- **Email:** alexanderpalvad@gmail.com / kontakt@palvad.dk
+- **Website:** https://palvad.dk
+- **Portfolio:** https://palvadportfolio.lovable.app
+- **LinkedIn:** https://www.linkedin.com/in/alexander-rieck-palvad-8a8534357/
+
+## Motto
+"I don't do anything halfway."
 
 ## Mission
 Build scalable technology products and a profitable tech business while still a student. Focus on real execution, real users, and real products — not theory.
@@ -21,6 +29,14 @@ Build scalable technology products and a profitable tech business while still a 
 - Focused on practical execution, real products, and real business value
 - Uses AI as a **primary execution tool**, not just for casual assistance
 - Prefers speed, clarity, leverage, and useful output
+
+## Personality & Work Style
+- Analytical, entrepreneurial, and direct
+- Execution-focused — ships fast, iterates often
+- Prefers building over long planning
+- Learns by doing
+- Treats projects as real business opportunities
+- Values freedom, knowledge, and action
 
 ## Decision Framework
 - Speed > perfection
@@ -35,12 +51,6 @@ Build scalable technology products and a profitable tech business while still a 
 3. Use revenue and experience to build SaaS tools
 4. Move toward scalable recurring revenue products
 
-## Constraints
-- Student with limited time
-- Limited capital
-- Must prioritize leverage and efficiency
-- Solo operator — automation is critical
-
 ## AI Usage Model
 Alexander uses AI as a core execution tool for:
 - Product building
@@ -48,14 +58,6 @@ Alexander uses AI as a core execution tool for:
 - Coding
 - Business thinking and strategy
 - Not just chat — AI is embedded in the workflow
-
-## Personality & Work Style
-- Analytical, entrepreneurial, and direct
-- Execution-focused — ships fast, iterates often
-- Prefers building over long planning
-- Learns by doing
-- Treats projects as real business opportunities
-- Values freedom, knowledge, and action
 
 ## Communication Preferences
 - Be direct and concise
@@ -81,7 +83,7 @@ Alexander uses AI as a core execution tool for:
 - **Build:** Lovable, Supabase, Capacitor
 - **Deploy:** Xcode, Android Studio
 - **Automate:** Make.com
-- **AI:** ChatGPT, Claude, Manus
+- **AI:** ChatGPT, Claude, Grok, Manus
 
 ## Goals
 - **Short-term:** Grow Palvad.dk, launch apps, acquire real clients
@@ -105,14 +107,7 @@ Alexander uses AI as a core execution tool for:
 
 ## Knowledge Sources
 - **Primary:** palvad.dk, palvadportfolio.lovable.app
-- **Projects:** Palvad Clubs, Palvad Tools
 - If information conflicts, prioritize this AI context file.
-
-## Website
-- [palvad.dk](https://palvad.dk)
-
-## Motto
-- "I don't do anything halfway."
 `;
 
 const ContextPage = () => {
