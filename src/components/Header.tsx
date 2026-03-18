@@ -1,16 +1,18 @@
 import { Link, useLocation } from "react-router-dom";
-
-const navItems = [
-  { label: "About", href: "/#about" },
-  { label: "Now", href: "/#now" },
-  { label: "Projects", href: "/#projects" },
-  { label: "Tech", href: "/#tech" },
-  { label: "Goals", href: "/#goals" },
-  { label: "AI Context", href: "/context" },
-];
+import { useLang } from "@/lib/i18n";
 
 const Header = () => {
   const location = useLocation();
+  const { lang, setLang, t } = useLang();
+
+  const navItems = [
+    { label: t("nav.about"), href: "/#about" },
+    { label: t("nav.now"), href: "/#now" },
+    { label: t("nav.projects"), href: "/#projects" },
+    { label: t("nav.tech"), href: "/#tech" },
+    { label: t("nav.goals"), href: "/#goals" },
+    { label: t("nav.context"), href: "/context" },
+  ];
 
   return (
     <header className="sticky top-0 z-50 border-b border-border bg-background/80 backdrop-blur-md">
@@ -18,31 +20,39 @@ const Header = () => {
         <Link to="/" className="font-display font-bold text-foreground tracking-tight text-sm">
           ARP
         </Link>
-        <ul className="flex items-center gap-6">
-          {navItems.map((item) => (
-            <li key={item.label}>
-              {item.href.startsWith("/#") ? (
-                <a
-                  href={item.href}
-                  className="text-sm text-muted-foreground hover:text-foreground transition-colors duration-150"
-                >
-                  {item.label}
-                </a>
-              ) : (
-                <Link
-                  to={item.href}
-                  className={`text-sm transition-colors duration-150 ${
-                    location.pathname === item.href
-                      ? "text-primary"
-                      : "text-muted-foreground hover:text-foreground"
-                  }`}
-                >
-                  {item.label}
-                </Link>
-              )}
-            </li>
-          ))}
-        </ul>
+        <div className="flex items-center gap-6">
+          <ul className="flex items-center gap-6">
+            {navItems.map((item) => (
+              <li key={item.href}>
+                {item.href.startsWith("/#") ? (
+                  <a
+                    href={item.href}
+                    className="text-sm text-muted-foreground hover:text-foreground transition-colors duration-150"
+                  >
+                    {item.label}
+                  </a>
+                ) : (
+                  <Link
+                    to={item.href}
+                    className={`text-sm transition-colors duration-150 ${
+                      location.pathname === item.href
+                        ? "text-primary"
+                        : "text-muted-foreground hover:text-foreground"
+                    }`}
+                  >
+                    {item.label}
+                  </Link>
+                )}
+              </li>
+            ))}
+          </ul>
+          <button
+            onClick={() => setLang(lang === "en" ? "da" : "en")}
+            className="text-xs font-mono px-2 py-1 rounded border border-border text-muted-foreground hover:text-foreground hover:border-primary/30 transition-colors duration-150"
+          >
+            {lang === "en" ? "DA" : "EN"}
+          </button>
+        </div>
       </nav>
     </header>
   );
