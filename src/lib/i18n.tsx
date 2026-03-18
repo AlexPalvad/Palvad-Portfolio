@@ -182,6 +182,13 @@ const translations: Record<Lang, Record<string, string>> = {
     "projects.tools.desc": "Fremtidige SaaS- og interne værktøjer til små virksomheders drift, automatisering og AI-drevne workflows.",
     "projects.other.desc": "Affiliate-sites, AI-dashboards, automatiseringssystemer, væksteksperimenter og små digitale produkter.",
 
+    // References
+    "references.title": "Referencer",
+    "references.presslab.desc": "Digital platform til et brand- og merchandise-firma. Produktpræsentation, brandkommunikation og marketingmaterialer.",
+    "references.skomar.desc": "Online træningsplatform fokuseret på det danske spil 'Skomar'. Struktureret undervisningsmateriale og læringsprogression.",
+    "references.geartjek.desc": "Anmeldelses- og sammenligningswebsite for sikkerhedsudstyr og hjemmeteknologi. Produktanmeldelser, sammenligninger og guides.",
+    "references.hairdesign.desc": "Professionelt website for en frisørsalon i Vangede, Gentofte. Serviceoversigt, priser, galleri og kontaktinformation.",
+
     // Tech
     "tech.title": "Teknologi",
     "tech.subtitle": "Værktøjer jeg bruger til at bygge, automatisere og shippe produkter hurtigt.",
