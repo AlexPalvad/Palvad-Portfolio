@@ -8,11 +8,41 @@ Identity
 - Education: HTX student at H.C. Ørsted Gymnasiet (TEC) — Biotechnology & Sports, Mathematics A
 - Role: Student entrepreneur, founder of Palvad.dk
 
+Mission
+Build scalable technology products and a profitable tech business while still a student. Focus on real execution, real users, and real products — not theory.
+
 Core Profile
 - Builds websites, apps, AI tools, and automation systems
 - Focused on practical execution, real products, and real business value
-- Uses AI as a core execution tool, not just for casual assistance
+- Uses AI as a primary execution tool, not just for casual assistance
 - Prefers speed, clarity, leverage, and useful output
+
+Decision Framework
+- Speed > perfection
+- Shipping > planning
+- Real users > hypothetical ideas
+- Simple solutions > complex architectures
+- Build fast → test → iterate → improve
+
+Business Strategy
+1. Build service business (Palvad.dk)
+2. Acquire real clients
+3. Use revenue and experience to build SaaS tools
+4. Move toward scalable recurring revenue products
+
+Constraints
+- Student with limited time
+- Limited capital
+- Must prioritize leverage and efficiency
+- Solo operator — automation is critical
+
+AI Usage Model
+Alexander uses AI as a core execution tool for:
+- Product building
+- Automation
+- Coding
+- Business thinking and strategy
+- Not just chat — AI is embedded in the workflow
 
 Personality & Work Style
 - Analytical, entrepreneurial, and direct
@@ -46,7 +76,7 @@ Tech Stack
 - Build: Lovable, Supabase, Capacitor
 - Deploy: Xcode, Android Studio
 - Automate: Make.com
-- AI: ChatGPT, Claude
+- AI: ChatGPT, Claude, Manus
 
 Goals
 - Short-term: Grow Palvad.dk, launch apps, acquire real clients
@@ -67,6 +97,11 @@ Default Response Style
 - Be structured
 - Focus on useful output
 - Use step-by-step guidance when needed
+
+Knowledge Sources
+- Primary: palvad.dk, palvadportfolio.lovable.app
+- Projects: Palvad Clubs, Palvad Tools
+- If information conflicts, prioritize this AI context file.
 
 Website
 - https://palvad.dk
