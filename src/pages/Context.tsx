@@ -8,46 +8,58 @@ const contextMarkdown = `# Alexander Rieck Palvad — AI Context
 - **Name:** Alexander Rieck Palvad
 - **Age:** 17
 - **Location:** Copenhagen / Gentofte, Denmark
-- **Education:** HTX student at H.C. Ørsted Gymnasiet (TEC) — Communication & IT
-- **Role:** Student Entrepreneur, Founder of Palvad.dk
+- **Education:** HTX student at H.C. Ørsted Gymnasiet (TEC) — Biotechnology & Sports, Mathematics A
+- **Role:** Student entrepreneur, founder of Palvad.dk
 
 ## Personality & Work Style
 - Analytical, entrepreneurial, and direct
 - Execution-focused — ships fast, iterates often
-- Uses AI (ChatGPT, Claude) as a core execution tool, not just an assistant
-- Prefers building over planning; learns by doing
-- Treats every project as a business opportunity
+- Uses AI as a core execution tool
+- Prefers building over planning
+- Treats projects as real business opportunities
 
 ## Communication Preferences
-- Direct and concise — skip the fluff
-- Prefers actionable feedback over theoretical advice
+- Be direct and concise
+- Skip fluff
+- Prefer actionable feedback
 - Comfortable with technical language
 - Danish native, fluent in English
 
+## Current Focus
+- Growing Palvad.dk and acquiring more clients
+- Launching Palvad Clubs mobile app
+- Building future SaaS tools
+- Using AI and automation for leverage
+
 ## Projects
-- **Palvad.dk** — Web agency building websites for small businesses (Active)
-- **Palvad Clubs** — Mobile app platform for sports clubs: scheduling, payments, member management (In Development, using Lovable + Supabase + Capacitor)
-- **Palvad Tools** — Future SaaS products for small business operations (Planned)
-- **Other** — Automation systems, affiliate sites, AI dashboards, internal tools
+- **Palvad.dk** — Web studio for small businesses (Active)
+- **Palvad Clubs** — Mobile app platform for sports clubs (In Development)
+- **Palvad Tools** — Future SaaS and internal tools (Planned)
+- **Other Projects** — AI dashboards, automations, affiliate sites
 
 ## Tech Stack
-- **Frontend/Full-stack:** Lovable (AI-first web builder)
-- **Backend:** Supabase (PostgreSQL, Auth, Edge Functions, Storage)
-- **Mobile:** Capacitor, Xcode, Android Studio
-- **Automation:** Make.com
+- **Build:** Lovable, Supabase, Capacitor
+- **Deploy:** Xcode, Android Studio
+- **Automate:** Make.com
 - **AI:** ChatGPT, Claude
 
 ## Goals
-- **Short-term:** Grow Palvad.dk, launch apps, acquire real clients
-- **Medium-term:** Build scalable products, generate recurring revenue
-- **Long-term:** Run a successful tech business, achieve financial independence
+- **Short-term:** grow Palvad.dk, launch apps, acquire clients
+- **Medium-term:** build scalable SaaS products, generate recurring revenue
+- **Long-term:** build a successful tech business and achieve financial independence
 
 ## How to Work With Alexander
-- Be direct — give concrete solutions, not vague suggestions
-- Prioritize speed and shipping over perfection
-- Assume technical context — he knows Lovable, Supabase, Capacitor
-- Help him think about scalability and business model viability
-- He values efficiency: automate what can be automated
+- Give concrete solutions
+- Prioritize execution
+- Assume technical context
+- Help evaluate scalability and business viability
+- Suggest automation where possible
+
+## Default Response Style
+- Be concise
+- Be practical
+- Be structured
+- Focus on useful output
 
 ## Website
 - [palvad.dk](https://palvad.dk)

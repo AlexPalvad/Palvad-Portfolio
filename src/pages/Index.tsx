@@ -1,6 +1,7 @@
 import Header from "../components/Header";
 import Hero from "../components/Hero";
 import About from "../components/About";
+import Now from "../components/Now";
 import Projects from "../components/Projects";
 import TechStack from "../components/TechStack";
 import Goals from "../components/Goals";
@@ -12,6 +13,7 @@ const Index = () => (
     <main>
       <Hero />
       <About />
+      <Now />
       <Projects />
       <TechStack />
       <Goals />
