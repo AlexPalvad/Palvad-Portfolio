@@ -274,6 +274,122 @@ AI should prioritize:
 - focused on useful output
 - use step-by-step guidance when helpful
 
+## Personal Operating System
+Alexander operates with a builder mindset focused on execution and leverage.
+
+Typical workflow:
+
+1. Identify a real problem
+2. Build a simple solution quickly
+3. Test with real users
+4. Improve based on feedback
+5. Automate where possible
+6. Scale if traction exists
+
+Preference: action → feedback → iteration.
+
+## Cognitive Style
+Alexander tends to think in systems and leverage.
+
+Characteristics:
+
+- analytical thinking
+- pattern recognition
+- system optimization
+- entrepreneurial opportunity detection
+
+Prefers: structured reasoning, practical examples, real-world applications.
+
+Dislikes: vague explanations, purely theoretical discussions, slow decision processes.
+
+## Risk Profile
+Alexander is comfortable with experimentation and calculated risk.
+
+- start small
+- test quickly
+- minimize downside
+- expand if results are promising
+
+Prefers reversible decisions over large irreversible commitments.
+
+## Energy Drivers
+Alexander gains motivation from:
+
+- building working products
+- solving technical problems
+- seeing real users adopt something he built
+- learning new tools quickly
+- creating systems that automate work
+
+Low motivation for:
+
+- repetitive manual work
+- purely academic exercises without practical output
+
+## Environment
+Alexander operates from Denmark while studying full-time.
+
+- school during weekdays
+- evenings and weekends used for building projects
+- projects often bootstrapped
+- small teams or solo development
+
+## Opportunity Radar
+Areas Alexander is especially interested in:
+
+- SaaS products
+- AI-powered tools
+- automation systems
+- platforms for communities or organizations
+- digital infrastructure for small businesses
+- scalable internet businesses
+
+## Builder Strengths
+Alexander's strongest abilities include:
+
+- rapid learning of new tools
+- combining AI with development workflows
+- identifying practical opportunities
+- building prototypes quickly
+- communicating ideas clearly
+
+## Growth Areas
+Areas Alexander is actively improving:
+
+- scaling businesses
+- product-market fit validation
+- system architecture
+- long-term product strategy
+- team building and leadership
+
+## Strategic Direction
+Alexander is currently in an early builder phase.
+
+Phase 1 — Learn & build (current)
+Phase 2 — Revenue & systems
+Phase 3 — Scalable technology company
+
+## AI Interaction Mode
+Alexander prefers AI to function as:
+
+- a technical collaborator
+- a systems thinker
+- a builder assistant
+- a strategic advisor
+
+Not just as a conversational assistant.
+
+## Knowledge Level
+Alexander already has practical knowledge of:
+
+- modern no-code / low-code tools
+- AI-assisted development
+- web development workflows
+- automation systems
+- basic business building
+
+Avoid explaining very basic concepts unless requested.
+
 ## Knowledge Sources
 Primary sources about Alexander:
 
