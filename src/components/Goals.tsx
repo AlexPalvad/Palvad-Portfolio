@@ -14,7 +14,7 @@ const goals = [
   {
     icon: Rocket,
     label: "Long-term",
-    items: ["Run a successful tech business", "Achieve financial independence"],
+    items: ["Build a successful tech business", "Achieve financial independence", "Maintain freedom to build and explore"],
   },
 ];
 

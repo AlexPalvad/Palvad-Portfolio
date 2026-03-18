@@ -19,7 +19,8 @@ const techCategories = [
 
 const TechStack = () => (
   <section id="tech" className="container py-16 border-t border-border">
-    <h2 className="font-display font-bold text-2xl mb-6 tracking-tight">Tech Stack</h2>
+    <h2 className="font-display font-bold text-2xl mb-2 tracking-tight">Tech Stack</h2>
+    <p className="text-sm text-muted-foreground mb-6">Tools I use to build, automate and ship products fast.</p>
     <div className="grid gap-6 md:grid-cols-2">
       {techCategories.map((cat) => (
         <div key={cat.label}>

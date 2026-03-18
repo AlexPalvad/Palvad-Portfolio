@@ -11,26 +11,27 @@ interface Project {
 const projects: Project[] = [
   {
     name: "Palvad.dk",
-    description: "Web agency building websites for small businesses.",
+    description: "Digital studio building simple, effective websites and digital solutions for small businesses.",
     tags: ["Lovable", "Supabase", "Make.com"],
     url: "https://palvad.dk",
     status: "Active",
   },
   {
     name: "Palvad Clubs",
-    description: "Mobile app platform for sports clubs — scheduling, payments, and member management.",
+    description: "Mobile app platform for sports clubs with communication, scheduling, notifications and scalable club infrastructure.",
     tags: ["Lovable", "Supabase", "Capacitor", "Xcode"],
     status: "In Development",
   },
   {
     name: "Palvad Tools",
-    description: "Future SaaS products for small business operations.",
+    description: "Future SaaS and internal tools for small business operations, automation and AI-powered workflows.",
     tags: ["Planned"],
   },
   {
     name: "Other Projects",
-    description: "Automation systems, affiliate sites, AI dashboards, and internal tools.",
+    description: "Affiliate sites, AI dashboards, automation systems, growth experiments and small digital products.",
     tags: ["Make.com", "ChatGPT", "Claude"],
+    status: "Experimental",
   },
 ];
 
