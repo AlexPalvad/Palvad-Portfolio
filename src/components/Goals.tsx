@@ -9,7 +9,7 @@ const goals = [
   {
     icon: TrendingUp,
     label: "Medium-term",
-    items: ["Build scalable SaaS products", "Generate recurring revenue", "Establish brand recognition"],
+    items: ["Build scalable SaaS products", "Generate recurring revenue", "Establish stronger brand credibility"],
   },
   {
     icon: Rocket,
