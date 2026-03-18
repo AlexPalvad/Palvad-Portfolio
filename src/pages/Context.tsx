@@ -1,6 +1,7 @@
 import { useState } from "react";
 import { Copy, Check } from "lucide-react";
 import Header from "../components/Header";
+import { useLang } from "@/lib/i18n";
 
 const contextMarkdown = `# Alexander Rieck Palvad — AI Context
 
@@ -10,6 +11,7 @@ const contextMarkdown = `# Alexander Rieck Palvad — AI Context
 - **Location:** Copenhagen / Gentofte, Denmark
 - **Education:** HTX student at H.C. Ørsted Gymnasiet (TEC) — Biotechnology & Sports, Mathematics A
 - **Role:** Student entrepreneur, founder of Palvad.dk
+- **LinkedIn:** https://www.linkedin.com/in/alexander-rieck-palvad-8a8534357/
 
 ## Personality & Work Style
 - Analytical, entrepreneurial, and direct
@@ -63,10 +65,12 @@ const contextMarkdown = `# Alexander Rieck Palvad — AI Context
 
 ## Website
 - [palvad.dk](https://palvad.dk)
+- [LinkedIn](https://www.linkedin.com/in/alexander-rieck-palvad-8a8534357/)
 `;
 
 const ContextPage = () => {
   const [copied, setCopied] = useState(false);
+  const { t } = useLang();
 
   const handleCopy = () => {
     navigator.clipboard.writeText(contextMarkdown);
@@ -79,17 +83,17 @@ const ContextPage = () => {
       <Header />
       <main className="container py-16 max-w-3xl">
         <div className="flex items-center justify-between mb-6">
-          <h1 className="font-display font-bold text-2xl tracking-tight">AI Context</h1>
+          <h1 className="font-display font-bold text-2xl tracking-tight">{t("context.title")}</h1>
           <button
             onClick={handleCopy}
             className="inline-flex items-center gap-1.5 text-sm font-mono px-3 py-1.5 rounded-md border border-border bg-card text-muted-foreground hover:text-foreground hover:border-primary/30 transition-colors duration-150"
           >
             {copied ? <Check className="w-3.5 h-3.5" /> : <Copy className="w-3.5 h-3.5" />}
-            {copied ? "Copied" : "Copy Markdown"}
+            {copied ? t("context.copied") : t("context.copy")}
           </button>
         </div>
         <p className="text-sm text-muted-foreground mb-8">
-          Structured context for AI tools. Copy this markdown to give any AI assistant full context about Alexander.
+          {t("context.desc")}
         </p>
         <div className="border border-border rounded-lg bg-card p-6 overflow-x-auto">
           <pre className="font-mono text-sm text-muted-foreground whitespace-pre-wrap leading-relaxed">
