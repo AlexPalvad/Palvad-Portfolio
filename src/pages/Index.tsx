@@ -4,7 +4,6 @@ import About from "../components/About";
 import Mission from "../components/Mission";
 import DecisionFramework from "../components/DecisionFramework";
 import Strategy from "../components/Strategy";
-import Constraints from "../components/Constraints";
 import AIUsage from "../components/AIUsage";
 import Now from "../components/Now";
 import Projects from "../components/Projects";
@@ -21,7 +20,6 @@ const Index = () => (
       <Mission />
       <DecisionFramework />
       <Strategy />
-      <Constraints />
       <AIUsage />
       <Now />
       <Projects />
